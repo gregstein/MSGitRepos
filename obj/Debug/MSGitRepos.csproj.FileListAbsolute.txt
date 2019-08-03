@@ -1,0 +1,15 @@
+c:\users\greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\MSGitRepos.exe.config
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\obj\Debug\MSGitRepos.csprojResolveAssemblyReference.cache
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\obj\Debug\MSGitRepos.Main.resources
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\obj\Debug\MSGitRepos.Properties.Resources.resources
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\obj\Debug\MSGitRepos.csproj.GenerateResource.Cache
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\MSGitRepos.exe
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\MSGitRepos.pdb
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\obj\Debug\MSGitRepos.exe
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\obj\Debug\MSGitRepos.pdb
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Greg\documents\visual studio 2013\Projects\MSGitRepos\MSGitRepos\bin\Debug\Newtonsoft.Json.pdb
